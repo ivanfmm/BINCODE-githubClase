@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jawah\\source\\repos\\BINCODE-githubClase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jawah\\source\\repos\\BINCODE-githubClase\\Muerte a Alexander||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Muerte a Alexander||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jawah\\source\\repos\\BINCODE-githubClase\\IVan.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IVan.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jawah\\source\\repos\\BINCODE-githubClase\\Muerte a Alexander||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Muerte a Alexander||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Muerte a Alexander",
               "DocumentMoniker": "C:\\Users\\jawah\\source\\repos\\BINCODE-githubClase\\Muerte a Alexander",
               "RelativeDocumentMoniker": "Muerte a Alexander",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "IVan.txt",
               "DocumentMoniker": "C:\\Users\\jawah\\source\\repos\\BINCODE-githubClase\\IVan.txt",
               "RelativeDocumentMoniker": "IVan.txt",
@@ -43,7 +43,8 @@
               "RelativeToolTip": "IVan.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-09-30T23:53:38.383Z"
+              "WhenOpened": "2025-09-30T23:53:38.383Z",
+              "EditorCaption": ""
             }
           ]
         }
